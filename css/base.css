@@ -1,9 +1,4 @@
-/*
-* @Author: andy
-* @Date:   2017-12-13 11:19:05
-* @Last Modified by:   andy
-* @Last Modified time: 2017-12-13 11:19:05
-*/
+
 /* 版心 */
 .w {
  	width: 1190px;   /*设置版心的宽度*/
@@ -16,16 +11,16 @@
 	float: left;    /*右浮动*/
 }
 .style-red {
-	color: #f10215!important; 
+	color: #f10215!important;
 }
 li {
 	list-style: none;      /*li标签去除默认样式*/
 }
 ul {
-	margin: 0;     
+	margin: 0;
 	padding: 0;
 }
-input, button {      
+input, button {
 	padding: 0;
 	border: 0;
 }
@@ -64,7 +59,7 @@ img {
   font-weight: normal;
   font-style: normal;
 }
-body {  
+body {
 	background-color: #F6F6F6;  /*body背景色*/
 }
 /* 京东 顶部 start */
@@ -93,7 +88,7 @@ body {
 /* 京东 顶部 end */
 
 .shortcut {                   /*设置最外层div样式*/
-	height: 30px; 
+	height: 30px;
 	line-height: 30px;
 	background-color: #E3E4E5;
 	border-bottom: 1px solid #DDDDDD;
@@ -153,7 +148,7 @@ body {
 .header {                        /*head相关样式*/
 	height: 140px;
 }
-.inner {                  
+.inner {
 	height: 140px;
 	background-color: pink;
 	position: relative;
@@ -167,10 +162,10 @@ body {
 	background-color: purple;
 	box-shadow: 0 -12px 10px rgba(0,0,0,.2);
 }
-.logo h1 {             
+.logo h1 {
 	margin: 0;
 }
-.logo a {               
+.logo a {
 	display: block;
 	width: 190px;
 	height: 170px;
@@ -261,7 +256,7 @@ body {
 .navitems ul li{
 	float: left;
 	margin-left: 30px;
-	
+
 }
 .navitems li a {
 	font-size: 16px;
